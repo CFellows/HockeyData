@@ -1,0 +1,731 @@
+Team	Position	Height	Weight	month of Birth	Day of Birth	Year of Birth	Age	Place of Birth
+ducks	L	6' 0"	204	Jun	7	1988	26	Windsor, ON, Canada 
+ducks	C	5' 10"	184	Jun	14	1987	27	Toronto, ON, Canada 
+ducks	L	6' 1"	212	Jun	16	1992	22	Long Beach, CA, USA 
+ducks	C		6'	4"	218	May	10	1985	29	Regina, SK, Canada 
+ducks	L	6' 3" 212	Jan	21	1981	33	Freiburg, Germany 
+ducks	R		6' 2"	224	Nov	14	1981	32	Minot, ND, USA 
+ducks	C	6' 0"	185	Jan	8	1993	21 Marsta, Sweden 
+ducks	C	6' 2"	208	Aug	31	1984	30 Livonia, MI, USA 
+ducks	L	6' 2"	231	Apr	23	1988	26	St. Louis, MO, USA 
+ducks	R	5' 11"	196	Feb	1	1991	23	Smithtown, NY, USA 
+ducks	R		6' 3"	213	May	16	1985	29 Peterborough, ON, Canada 
+ducks	C		6' 0"	201	May	5	1993	21	Sundbyberg, Sweden 
+ducks	R		6'	0"	199	Oct	13	1990	24	Gävle, Sweden 
+ducks	R		6' 0" 220	Jun	14	1992	22	Scarborough, ON, Canada 
+ducks	C		6' 0"	210	Oct	5	1984	30	Anchorage, AK, USA 
+ducks	D	6' 5"	223	Aug	21	1980	34	Kingston, ON, Canada 
+ducks	D	6' 1"	208	Jun	4	1980	34	Sorel, QC, Canada 
+ducks	D	6' 2"	225	Jun	1	1986	28	Edmonton, AB, Canada 
+ducks	D	6' 1"	211	Dec	5	1991	22	Windsor, ON, Canada 
+ducks	D	6' 3"	205	Jan	20	1994	20	Helsingborg, Sweden 
+ducks	D	6'	1"	206	Feb	20	1984	30	Concord, NH, USA 
+ducks	D	6'	3"	212	Feb	19	1985	29	Port McNeill, BC, Canada 
+ducks	D	6'	2"	182	Aug	3	1995	19	Langley, BC, Canada 
+ducks	D	5'	10"	180	Jun	3	1991	23	Jyväskylä, Finland 
+ducks	D	6'	3"	236	Oct	2	1989	25	Herning,	Denmark 
+ducks	D	6'	3"	216	Jul	14	1993	21 Pittsburgh,	PA, USA 
+coyotes	L	6' 0"	211	Dec	16	1989	24	Brondby, Denmark
+coyotes	C	6' 2"	203	Feb	19	1986	28	Westlock, AB, Canada
+coyotes	R	6' 2"	209	Jul	10	1985	29	Denver, CO, USA
+coyotes	R	6' 1"	223	Oct	10	1976	38	Halkirk, AB, Canada
+coyotes	R	6' 0"	196	Aug	29	1981	33	Trebic, Czech Republic
+coyotes	C	5' 11"	202	Aug	10	1989	25	London, ON, Canada
+coyotes	C	6' 6"	226	Feb	20	1987	27	Pisek, Czech Republic
+coyotes	C	6' 1"	203	Jun	27	1988	26	Brampton, ON, Canada
+coyotes	L	6' 3"	214	Aug	12	1986	28	Lethbridge, AB, Canada
+coyotes	L	6' 1"	205	Jul	28	1986	28	Turku, Finland
+coyotes	L	5' 11"	190	Mar	22	1990	24	Richmond, BC, Canada
+coyotes	R	6' 4"	210	Dec	28	1981	32	Livonia, MI, USA
+coyotes	C	6' 1"	198	Jul	20	1982	32	St. Agapit, QC, Canada
+coyotes	C	5' 11"	205	Aug	20	1985	29	St. Louis, MO, USA
+coyotes	G	6' 2"	200	Jul	17	1991	23	Karlskrona, Sweden
+coyotes	X	6' 2"	210	Dec	23	1982	31	Jindrichuv Hradec, Czech Republic
+coyotes	X	6' 4"	212	Mar	26	1993	21	Dublin, OH, USA
+coyotes	X	6' 1"	190	May	7	1987	27	Edmonton, AB, Canada
+coyotes	X	6' 3"	210	Jun	7	1990	24	Winnipeg, MB, Canada
+coyotes	X	6' 2"	209	Feb	5	1988	26	Ann Arbor, MI, USA
+coyotes	X	6' 1"	190	Sep	9	1986	28	Boston, MA, USA
+coyotes	X	6' 6"	210	May	4	1986	28	Regina, SK, Canada
+coyotes	X	6' 4"	215	Mar	22	1982	32	Kingston, ON, Canada
+flames	C	6' 0"	198	Mar	17	1989	25	Vasteras, Sweden
+flames	C	6' 1"	178	Jun	20	1996	18	Holland Landing, ON, Canada
+flames	L	6' 2"	223	Jan	31	1987	27	St. Charles, MO, USA
+flames	C	6' 1"	210	Mar	25	1990	24	Provost, AB, Canada
+flames	C	5' 7"	153	Apr	27	1989	25	Ottawa, ON, Canada
+flames	C	6' 5"	213	Jan	30	1990	24	Calgary, AB, Canada
+flames	L	5' 9"	150	Aug	13	1993	21	Salem, NJ, USA
+flames	L	6' 1"	197	Dec	28	1982	31	Kindersley, SK, Canada
+flames	C	5' 10"	186	Jan	4	1984	30	Olomouc, Czech Republic
+flames	R	6' 2"	210	Aug	10	1984	30	Guelph, ON, Canada
+flames	C	6' 0"	180	Jul	14	1990	24	Burlington, ON, Canada
+flames	R	6' 4"	235	Sep	2	1981	33	Hamilton, ON, Canada
+flames	C	6' 2"	185	Oct	12	1994	20	Brampton, ON, Canada
+flames	L	6' 0"	185	Sep	17	1985	29	Cochrane, AB, Canada
+flames	R	6' 0"	205	Jan	1	1987	27	Taber, AB, Canada
+flames	C	6' 1"	192	Dec	19	1983	30	Mississauga, ON, Canada
+flames	X	6' 1"	182	Jun	7	1990	24	Chatham, ON, Canada	
+flames	X	5' 11"	197	Jan	9	1986	28	Baar, CHE
+flames	X	6' 2"	215	Apr	3	1982	32	Edmonton, AB, Canada
+flames	X	6' 0"	200	Oct	3	1983	31	Toronto, ON, Canada
+flames	X	6' 3"	204	Jan	5	1984	30	Lansing, MI, USA
+flames	X	5' 10"	173	May	2	1987	27	Caroline, AB, Canada
+flames	X	6' 3"	209	Feb	1	1986	28	Frydlant, Czech Republic
+flames	X	6' 0"	200	Mar	20	1983	31	Kitchener, ON, Canada
+flames	X	6' 2"	192	Feb	12	1982	32	Felben Wellhausen, CHE
+flames	X	6' 2"	206	Jul	1	1986	28	Asikkala, Finland
+blackhawks	L	6' 4"	223	Mar	9	1986	28	Bowmanville, ON, Canada
+blackhawks	L	6' 0"	200	Jan	28	1985	29	King City, ON, Canada
+blackhawks	R	6' 1"	207	Jan	12	1979	35	Stará Lubovna, SVK
+blackhawks	R	5' 11"	177	Nov	19	1988	25	Buffalo, NY, USA
+blackhawks	C	6' 0"	186	May	27	1990	24	Stockholm, Sweden
+blackhawks	R	6' 1"	189	Apr	16	1991	23	Auburn, NY, USA
+blackhawks	C	6' 0"	199	May	2	1980	34	Murray Hbr., PE, Canada
+blackhawks	L	6' 1"	204	Oct	27	1992	21	Pittsburgh, PA, USA
+blackhawks	L	6' 1"	198	Dec	27	1981	32	Winnipeg, MB, Canada
+blackhawks	C	5' 11"	179	Jul	20	1991	23	Belleville, ON, Canada
+blackhawks	R	5' 11"	199	Jul	11	1988	26	Winston-Salem, NC, USA
+blackhawks	C	6' 2"	201	Apr	29	1988	26	Winnipeg, MB, Canada
+blackhawks	L	5' 11"	176	May	13	1986	28	Lethbridge, AB, Canada
+blackhawks	X	6' 3"	197	Jun	6	1987	27	Eksjo, Sweden	
+blackhawks	X	6' 1"	192	Jul	16	1983	31	Winnipeg, MB, Canada
+blackhawks	X	6' 0"	188	Oct	1	1981	33	Stockholm, Sweden
+blackhawks	X	6' 1"	210	Sep	3	1978	36	Vlasim, Czech Republic
+blackhawks	X	6' 2"	187	Oct	8	1990	24	Lycksele, Sweden
+blackhawks	X	6' 3"	220	Apr	20	1985	29	Richmond, BC, Canada
+blackhawks	X	6' 2"	188	Jul	24	1991	23	Middletown, NJ, USA
+blackhawks	X	6' 2"	216	Dec	31	1984	29	Montreal, QC, Canada
+blackhawks	X	6' 6"	232	Dec	22	1988	25	Lemont, IL, USA
+blackhawks	X	6' 0"	193	May	12	1989	25	Rauma, Finland
+avalanche	L	6' 6"	225	Mar	23	1986	28	Montreal, QC, Canada
+avalanche	C	5' 9"	174	Oct	6	1977	37	Gatineau, QC, Canada
+avalanche	C	6' 0"	202	Mar	23	1987	27	Rouyn-Noranda, QC, Canada
+avalanche	C	5' 11"	200	Jan	16	1991	23	Haliburton, ON, Canada
+avalanche	R	6' 1"	210	Jul	1	1977	37	Edmonton, AB, Canada
+avalanche	L	6' 1"	210	Nov	23	1992	21	Stockholm, Sweden
+avalanche	C	6' 0"	195	Sep	1	1995	19	Halifax, NS, Canada
+avalanche	L	6' 1"	210	Aug	5	1988	26	Fergus, ON, Canada
+avalanche	L	6' 2"	210	Jun	26	1984	30	Binscarth, MB, Canada
+avalanche	C	6' 1"	204	Jan	22	1985	29	Oakville, ON, Canada
+avalanche	C	6' 0"	210	Feb	7	1991	23	Clinton, ON, Canada
+avalanche	C	5' 11"	190	Feb	11	1984	30	Lemoyne, QC, Canada
+avalanche	L	6' 1"	194	Nov	21	1979	34	Ste-Justine, QC, Canada
+avalanche	C	6' 1"	205	Oct	4	1983	31	Long Sault, ON, Canada
+avalanche	X	5' 10"	190	Jul	26	1991	23	Victoria, BC, Canada
+avalanche	X	6' 3"	207	Dec	10	1982	31	Aliquippa, PA, USA
+avalanche	X	6' 4"	230	Jun	18	1978	36	Prague, Czech Republic
+avalanche	X	6' 4"	210	May	15	1987	27	St. Albert, AB, Canada
+avalanche	X	6' 4"	232	Mar	21	1988	26	Bloomington, MN, USA
+avalanche	X	6' 2"	205	Jul	26	1988	26	Traverse City, MI, USA
+avalanche	X	6' 2"	215	Nov	6	1979	34	Rocky Mountain House, AB, Canada
+avalanche	X	6' 1"	210	Feb	3	1987	27	Windsor, ON, Canada
+avalanche	X	6' 4"	210	Jan	3	1987	27	Bulach, CHE
+avalanche	X	6' 2"	209	Apr	27	1988	26	Samara, Russia
+stars	L	6' 2"	210	Jul	18	1989	25	Victoria, BC, Canada
+stars	L	6' 2"	205	Nov	6	1978	35	OSwedengo, NY, USA
+stars	C	6' 0"	190	May	24	1991	23	Winnipeg, MB, Canada
+stars	R	6' 0"	200	May	1	1984	30	Calgary, AB, Canada
+stars	C	5' 11"	205	May	9	1980	34	Edmonton, AB, Canada
+stars	L	6' 0"	195	Aug	12	1985	29	Winnipeg, MB, Canada
+stars	R	6' 0"	185	Aug	13	1983	31	Pardubice, Czech Republic
+stars	C	6' 1"	205	Sep	17	1978	36	Trail, BC, Canada
+stars	L	6' 2"	210	Feb	22	1991	23	Golden, BC, Canada
+stars	R	6' 4"	210	Mar	4	1995	19	Chelyabinsk, Russia
+stars	C	5' 11"	195	Jul	8	1982	32	Kingston, ON, Canada
+stars	L	6' 0"	200	Nov	21	1989	24	Roubaix, FRA
+stars	C	6' 0"	200	Apr	20	1989	25	Red Deer, AB, Canada
+stars	C	6' 1"	200	Jan	31	1992	22	Brampton, ON, Canada
+stars	C	6' 3"	220	Jun	13	1983	31	Toronto, ON, Canada
+stars	X	6' 2"	200	Jul	26	1987	27	Victoria, BC, Canada
+stars	X	6' 2"	200	Feb	23	1990	24	Edmonton, AB, Canada
+stars	X	5' 11"	195	Oct	9	1983	31	Toronto, ON, Canada
+stars	X	6' 4"	225	Nov	13	1990	23	New Westminster, BC, Canada
+stars	X	5' 11"	190	Jul	30	1985	29	Grand Rapids, MN, USA
+stars	X	6' 2"	210	Apr	13	1974	40	Chelyabinsk, Russia
+stars	X	6' 3"	205	Aug	20	1991	23	Tampere, Finland
+stars	X	6' 3"	230	Feb	8	1992	22	Stockholm, Sweden
+stars	X	6' 7"	250	Dec	21	1992	21	Toronto, ON, Canada
+stars	X	6' 4"	210	Nov	16	1983	30	Helsinki, Finland
+stars	X	6' 6"	215	May	3	1988	26	Gävle, Sweden
+oilers	C	6' 3"	202	Jul	16	1987	27	Edina, MN, USA
+oilers	C	5' 8"	172	Aug	12	1988	26	Milford, CT, USA
+oilers	C	6' 1"	210	Oct	27	1995	18	Cologne, DEU
+oilers	R	5' 11"	183	May	15	1990	24	Regina, SK, Canada
+oilers	L	6' 4"	233	Jul	25	1989	25	Toronto, ON, Canada
+oilers	C	6' 0"	200	Oct	19	1983	31	Unity, SK, Canada
+oilers	L	6' 1"	198	Nov	14	1991	22	Calgary, AB, Canada
+oilers	L	6' 0"	211	Jun	17	1981	33	Blaine, MN, USA
+oilers	L	6' 4"	213	Oct	5	1987	27	Pori, Finland
+oilers	C	6' 0"	190	Apr	12	1993	21	Burnaby, BC, Canada
+oilers	L	6' 0"	200	May	28	1988	26	Sherbrooke, QC, Canada
+oilers	L	6' 3"	193	Sep	29	1986	28	Alfred, ON, Canada
+oilers	R	6' 2"	198	Sep	8	1985	29	St. John's, NL, Canada
+oilers	R	5' 11"	197	Oct	6	1993	21	Nizhnekamsk, Russia
+oilers	X	6' 3"	215	May	15	1987	27	Nashua, NH, USA
+oilers	X	5' 11"	184	Mar	17	1979	35	Edmonton, AB, Canada
+oilers	X	5' 9"	187	Aug	24	1988	26	Maple Ridge, BC, Canada
+oilers	X	6' 4"	203	Feb	18	1992	22	Kosice, SVK
+oilers	X	6' 4"	217	Jun	16	1986	28	Omsk, Russia
+oilers	X	6' 3"	198	Dec	9	1987	26	Ann Arbor, MI, USA
+oilers	X	6' 2"	196	Jul	6	1990	24	Kelowna, BC, Canada
+oilers	X	5' 10"	183	Jul	25	1987	27	Salt Lake City, UT, USA
+oilers	X	6' 0"	181	Aug	8	1982	32	Kalix, Sweden
+oilers	X	6' 2"	181	Sep	11	1986	28	Spruce Grove, AB, Canada
+kings	R	6' 0"	207	Nov	4	1984	29	Ithaca, NY, USA
+kings	C	6' 4"	212	Jan	1	1985	29	London, ON, Canada
+kings	L	6' 2"	211	Jan	13	1991	23	Ayr, ON, Canada
+kings	R	6' 1"	204	Feb	14	1982	32	Trencin, SVK
+kings	L	6' 4"	230	Jul	5	1989	25	Meadow Lake, SK, Canada
+kings	C	6' 3"	224	Aug	24	1987	27	Jesenice, SVN
+kings	C	6' 1"	198	Jan	8	1987	27	Salt Lake City, UT, USA
+kings	C	6' 3"	221	Jun	23	1989	25	St. Catharines, ON, Canada
+kings	L	6' 1"	200	Aug	10	1992	22	Kitchener, ON, Canada
+kings	C	5' 11"	196	Feb	11	1985	29	Kenora, ON, Canada
+kings	C	6' 1"	213	Jun	24	1982	32	Melville, SK, Canada
+kings	C	6' 1"	196	Apr	24	1992	22	Scarborough, ON, Canada
+kings	R	6' 1"	189	Oct	4	1981	33	Cobourg, ON, Canada
+kings	X	6' 1"	213	Dec	8	1989	24	London, ON, Canada
+kings	X	6' 3"	234	May	13	1983	31	Grand Ledge, MI, USA
+kings	X	6' 1"	209	Jul	26	1987	27	Rochester Hills, MI, USA
+kings	X	6' 4"	208	Jan	21	1991	23	Davidson, SK, Canada
+kings	X	6' 3"	214	Feb	21	1989	25	Woodstock, ON, Canada
+kings	X	6' 3"	222	Apr	19	1980	34	Recife, BRA
+kings	X	6' 0"	194	Jan	15	1990	24	Chelyabinsk, Russia
+kings	X	6' 4"	187	Jan	10	1990	24	North Vancouver, BC, Canada
+kings	X	6' 1"	220	Jan	21	1986	28	Milford, CT, USA
+wild	C	6' 2"	212	May	25	1984	30	St. Paul, AB, Canada
+wild	C	6' 1"	205	Aug	3	1983	31	White Bear Lake, MN, USA
+wild	L	5' 11"	216	Sep	7	1978	36	Belleville, ON, Canada
+wild	C	6' 3"	221	Mar	2	1992	22	E. Weymouth, MA, USA
+wild	R	5' 10"	175	Nov	6	1987	26	Bonnyville, AB, Canada
+wild	C	5' 10"	185	Feb	26	1992	22	Oulu, Finland
+wild	C	5' 11"	188	Mar	23	1991	23	Pori, Finland
+wild	C	6' 3"	215	Mar	12	1983	31	Turku, Finland
+wild	R	6' 2"	210	Sep	8	1992	22	Chur, CHE
+wild	L	5' 11"	197	Jul	28	1984	30	Minneapolis, MN, USA
+wild	R	6' 0"	187	Nov	30	1982	31	Repentigny, QC, Canada
+wild	L	6' 2"	218	Jan	19	1984	30	Vienna, Austria
+wild	L	5' 11"	188	Jan	16	1992	22	Newport Beach, CA, USA
+wild	X	5' 11"	204	Nov	26	1982	31	Baudette, MN, USA
+wild	X	6' 1"	194	Jul	12	1993	21	Karlstad, Sweden
+wild	X	6' 0"	189	Jul	25	1994	20	Regina, SK, Canada
+wild	X	6' 3"	214	Feb	9	1991	23	Gothenburg, Sweden
+wild	X	6' 2"	203	May	7	1986	28	Elk River, MN, USA
+wild	X	6' 1"	205	Feb	23	1990	24	Montreal, QC, Canada
+wild	X	5' 9"	176	Nov	29	1989	24	Edmonton, AB, Canada
+wild	X	6' 1"	200	Jan	21	1985	29	Madison, WI, USA
+wild	X	6' 2"	194	Feb	13	1978	36	Helsinki, Finland
+wild	X	6' 2"	194	Jun	18	1984	30	Regina, SK, Canada
+wild	X	6' 5"	205	May	5	1990	24	Saskatoon, SK, Canada
+predators	L	6' 2"	203	May	13	1991	23	St. Catharines, ON, Canada
+predators	L	5' 10"	192	Sep	23	1990	24	Rimouski, QC, Canada
+predators	L	5' 10"	207	Apr	25	1987	27	Toronto, ON, Canada
+predators	C	6' 1"	200	Nov	2	1976	37	Virginia, MN, USA
+predators	C	6' 1"	186	Aug	13	1994	20	Ostervala, Sweden
+predators	C	6' 5"	223	Feb	3	1982	32	Fargo, ND, USA
+predators	C	5' 11"	156	Sep	25	1991	23	Gävle, Sweden
+predators	C	6' 2"	210	Dec	5	1978	35	Kuopio, Finland
+predators	L	6' 2"	208	Sep	3	1987	27	Whitby, ON, Canada
+predators	L	6' 1"	193	Feb	14	1983	31	Syosset, NY, USA
+predators	C	6' 0"	177	Feb	10	1980	34	Montreal, QC, Canada
+predators	C	5' 9"	184	May	4	1983	31	Ottawa, ON, Canada
+predators	C	6' 1"	187	Nov	5	1993	20	North Vancouver, BC, Canada
+predators	C	6' 1"	202	Sep	5	1989	25	Madison, WI, USA
+predators	L	6' 3"	209	Jan	17	1986	28	Gothenburg, Sweden
+predators	C	6' 1"	216	Oct	20	1989	25	Greenwich, CT, USA
+predators	X	6' 0"	203	Feb	17	1988	26	Ottawa, ON, Canada
+predators	X	6' 4"	204	May	24	1990	24	Borlange, Sweden
+predators	X	5' 10"	175	Jan	3	1991	23	Hamilton, ON, Canada
+predators	X	6' 4"	205	Oct	3	1994	20	Arlington, TX, USA
+predators	X	6' 1"	192	Jun	1	1990	24	Bern, CHE
+predators	X	6' 1"	220	Feb	25	1982	32	Moscow, Russia
+predators	X	6' 4"	233	Aug	14	1985	29	Sicamous, BC, Canada
+predators	X	6' 1"	195	Dec	19	1985	28	Thunder Bay, ON, Canada
+predators	X	6' 5"	204	Nov	3	1982	31	Kempele, Finland
+sharks	R	5' 11"	205	Jun	24	1985	29	Chicago, IL, USA
+sharks	R	6' 1"	195	Jan	6	1983	31	Madison, WI, USA
+sharks	C	6' 1"	200	Mar	28	1989	25	Guelph, ON, Canada
+sharks	C	6' 1"	195	Jul	27	1986	28	Lively, ON, Canada
+sharks	R	6' 2"	215	Feb	26	1993	21	Toronto, ON, Canada
+sharks	C	6' 2"	210	Nov	12	1993	20	Praha, Czech Republic
+sharks	R	5' 11"	185	Jul	15	1986	28	Sault Ste. Marie, ON, Canada
+sharks	L	6' 2"	220	Sep	15	1979	35	Aneroid, SK, Canada
+sharks	L	6' 2"	205	Jul	29	1990	24	Fergus, ON, Canada
+sharks	L	5' 11"	190	Nov	5	1992	21	Long Beach, CA, USA
+sharks	C	5' 11"	190	Jul	11	1984	30	Plover, WI, USA
+sharks	L	6' 8"	260	Sep	26	1982	32	Edmonton, AB, Canada
+sharks	L	6' 1"	215	Apr	25	1988	26	Halifax, NS, Canada
+sharks	C	6' 4"	220	Jul	2	1979	35	London, ON, Canada
+sharks	C	6' 0"	195	Jul	1	1994	20	Keswick, ON, Canada
+sharks	C	6' 0"	200	Apr	12	1988	26	Evanston, IL, USA
+sharks	X	6' 2"	205	Feb	10	1987	27	Minneapolis, MN, USA
+sharks	X	6' 5"	230	Mar	9	1985	29	Barrie, ON, Canada
+sharks	X	6' 1"	195	Jun	9	1988	26	Dorval, QC, Canada
+sharks	X	6' 1"	215	Jan	23	1979	35	Richmond, BC, Canada
+sharks	X	6' 2"	210	Nov	29	1987	26	Brentwood Bay, BC, Canada
+sharks	X	6' 3"	205	Mar	21	1995	19	Winterthur, CHE
+sharks	X	6' 1"	205	Mar	30	1987	27	Montreal, QC, Canada
+sharks	X	6' 2"	210	Aug	29	1983	31	Vantaa, Finland
+sharks	X	6' 0"	190	Jul	28	1987	27	St. Paul, MN, USA
+blues	C	6' 3"	221	May	1	1984	30	Minneapolis, MN, USA
+blues	C	6' 3"	217	Jun	2	1988	26	Västerås, Sweden
+blues	C	6' 2"	215	Mar	29	1985	29	Saint-Léonard, QC, Canada
+blues	C	6' 2"	210	Dec	23	1987	26	Helsinki, Finland
+blues	C	6' 0"	187	Dec	5	1983	30	Skellefteå, Sweden
+blues	R	5' 11"	189	Dec	23	1986	27	Everett, WA, USA
+blues	C	6' 0"	189	Aug	19	1982	32	Summerside, PE, Canada
+blues	L	6' 3"	208	Apr	12	1991	23	Norrkoping, Sweden
+blues	L	6' 1"	206	May	29	1984	30	Toronto, ON, Canada
+blues	R	6' 1"	224	Jan	20	1987	27	Winnipeg, MB, Canada
+blues	L	5' 10"	190	Jun	25	1992	22	Wilcox, SK, Canada
+blues	C	6' 0"	205	Dec	27	1985	28	Quebec City, QC, Canada
+blues	L	5' 11"	212	Mar	1	1984	30	Winnipeg, MB, Canada
+blues	R	6' 0"	219	Dec	13	1991	22	Yaroslavl, Russia
+blues	X	6' 4"	212	Sep	27	1983	31	Edmonton, AB, Canada
+blues	X	6' 1"	219	Feb	21	1989	25	Ann Arbor, MI, USA
+blues	X	6' 2"	196	Nov	9	1986	27	Orebro, Sweden
+blues	X	6' 0"	203	Mar	5	1981	33	Trail, BC, Canada
+blues	X	6' 1"	206	Aug	3	1980	34	Golden Valley, MN, USA
+blues	X	6' 3"	201	Jan	18	1990	24	King City, ON, Canada
+blues	X	5' 11"	207	Jan	29	1989	25	New Rochelle, NY, USA
+blues	X	6' 2"	195	Aug	7	1990	24	Fredericton, NB, Canada
+blues	X	6' 2"	209	Apr	9	1985	29	Newmarket, ON, Canada
+Canucks	C	6' 1"	196	Apr	20	1988	26	Hartford, CT, USA
+Canucks	R	6' 1"	188	Apr	11	1981	33	Pincourt, QC, Canada
+Canucks	R	6' 0"	192	Dec	20	1986	27	Kindersley, SK, Canada
+Canucks	R	6' 1"	195	Mar	15	1986	28	Herlev, Denmark
+Canucks	L	6' 0"	205	Jun	2	1983	31	Smithtown, NY, USA
+Canucks	R	6' 3"	202	Mar	6	1993	21	Herning, Denmark
+Canucks	R	6' 3"	214	Jan	24	1991	23	Windsor, ON, Canada
+Canucks	C	6' 4"	223	Feb	19	1988	26	Mississauga, ON, Canada
+Canucks	R	6' 0"	197	Feb	4	1985	29	Belleville, ON, Canada
+Canucks	L	6' 1"	187	Sep	26	1980	34	Ornskoldsvik, Sweden
+Canucks	C	6' 2"	188	Sep	26	1980	34	Ornskoldsvik, Sweden
+Canucks	L	6' 5"	228	Sep	28	1987	27	Rome, NY, USA
+Canucks	R	6' 0"	189	Jul	17	1991	23	Wakaw, SK, Canada
+Canucks	R	6' 1"	194	Jun	13	1981	33	Mlada Boleslav, Czech Republic
+Canucks	X	6' 1"	198	Jun	16	1981	33	Grimsby, ON, Canada
+Canucks	X	6' 0"	190	Mar	26	1993	21	Toronto, ON, Canada
+Canucks	X	6' 3"	215	Apr	21	1986	28	Ostersund, Sweden
+Canucks	X	6' 1"	209	Dec	13	1982	31	Smithers, BC, Canada
+Canucks	X	6' 2"	198	Jan	30	1990	24	Ozieri, ITA
+Canucks	X	6' 2"	196	Jul	20	1989	25	St. Albert, AB, Canada
+Canucks	X	6' 2"	185	Dec	20	1989	24	Toronto, ON, Canada
+Canucks	X	5' 11"	200	Sep	23	1988	26	Morges, CHE
+Canucks	X	6' 4"	187	Jan	5	1988	26	Norrtälje, Sweden
+Canucks	X	6' 2"	168	Jul	17	1980	34	East Lansing, MI, USA
+jets	R	6' 5"	260	Mar	27	1985	29	Roseau, MN, USA
+jets	R	6' 1"	200	Feb	17	1988	26	Kladno, Czech Republic
+jets	L	6' 2"	185	Apr	22	1988	26	Calgary, AB, Canada
+jets	R	5' 11"	180	Jun	1	1988	26	Toronto, ON, Canada
+jets	L	6' 2"	198	Aug	2	1991	23	Vancouver, BC, Canada
+jets	L	6' 3"	200	Dec	12	1985	28	Maple Ridge, BC, Canada
+jets	C	5' 11"	189	Nov	12	1987	26	Edmonton, AB, Canada
+jets	L	6' 5"	207	Mar	29	1993	21	St. Louis, MO, USA
+jets	R	6' 3"	235	Apr	18	1989	25	North York, ON, Canada
+jets	C	5' 10"	185	Jan	5	1988	26	Drummondville, QC, Canada
+jets	C	6' 3"	198	Mar	15	1993	21	Kitchener, ON, Canada
+jets	C	6' 0"	195	Dec	9	1982	31	Lapeer, MI, USA
+jets	R	6' 3"	235	Jun	3	1983	31	Sault Ste. Marie, ON, Canada
+jets	R	6' 5"	225	Aug	31	1986	28	Plymouth, MN, USA
+jets	X	6' 3"	225	Jul	15	1990	24	Massena, NY, USA
+jets	X	5' 11"	211	Apr	14	1985	29	Gloucester, ON, Canada
+jets	X	5' 10"	180	Nov	5	1984	29	Nordingra, Sweden
+jets	X	6' 4"	227	Mar	29	1984	30	Bonavista, NL, Canada
+jets	X	6' 3"	195	Feb	22	1989	25	Red Deer, AB, Canada
+jets	X	6' 2"	213	Apr	27	1984	30	Rochester, MN, USA
+jets	X	6' 2"	200	Feb	26	1994	20	Rochester, MI, USA
+jets	X	6' 3"	202	Mar	2	1990	24	Barrie, ON, Canada
+jets	X	6' 3"	218	Aug	31	1987	27	Kladno, Czech Republic
+bruins	C	6' 2"	194	Jul	24	1985	29	Ancienne-Lorette, QC, Canada
+bruins	C	6' 0"	197	Dec	17	1983	30	London, ON, Canada
+bruins	R	6' 2"	196	Jul	17	1985	29	Gothenburg, Sweden
+bruins	R	6' 1"	204	May	20	1990	24	Red Deer, AB, Canada
+bruins	L	6' 1"	195	Feb	29	1980	34	Ste. Foy, QC, Canada
+bruins	C	5' 9"	192	Jan	4	1993	21	Wallaceburg, ON, Canada
+bruins	C	6' 0"	198	Nov	11	1980	33	Toronto, ON, Canada
+bruins	C	6' 0"	188	Apr	28	1986	28	Sternberk, Czech Republic
+bruins	L	6' 3"	235	Jun	7	1988	26	Vancouver, BC, Canada
+bruins	L	5' 9"	183	May	11	1988	26	Halifax, NS, Canada
+bruins	L	6' 1"	200	Apr	15	1984	30	Welland, ON, Canada
+bruins	C	5' 10"	191	Jul	17	1977	37	Ottawa, ON, Canada
+bruins	R	6' 0"	185	Apr	1	1991	23	Toronto, ON, Canada
+bruins	C	6' 3"	216	Oct	12	1985	29	Malmö, Sweden
+bruins	X	6' 1"	196	Jun	4	1988	26	Pittsburgh, PA, USA
+bruins	X	6' 9"	255	Mar	18	1977	37	Trencin, SVK
+bruins	X	6' 5"	212	Jun	17	1993	21	Toronto, ON, Canada
+bruins	X	5' 9"	181	Apr	12	1991	23	Livonia, MI, USA
+bruins	X	6' 5"	209	Oct	12	1986	28	Charlottetown, PE, Canada
+bruins	X	6' 2"	210	Nov	15	1987	26	Los Angeles, CA, USA
+bruins	X	6' 1"	204	Dec	9	1992	21	Edmonton, AB, Canada
+bruins	X	6' 1"	210	Jul	18	1981	33	Schwenningen, DEU
+bruins	X	6' 3"	219	Aug	26	1990	24	Carmel, IN, USA
+bruins	X	6' 2"	185	Mar	10	1987	27	Savonlinna, Finland
+bruins	X	6' 0"	176	Sep	4	1989	25	Sollentuna, Sweden
+sabres	L	6' 1"	209	Feb	22	1991	23	LaSalle, QC, Canada
+sabres	C	5' 9"	169	Oct	6	1989	25	Edmonton, AB, Canada
+sabres	C	6' 1"	180	Jul	26	1988	26	Lynnfield, MA, USA
+sabres	L	6' 3"	223	Aug	10	1991	23	Buffalo, NY, USA
+sabres	R	5' 7"	176	Jan	18	1979	35	Rochester, NY, USA
+sabres	C	6' 1"	190	Jan	5	1994	20	Riga, LVA
+sabres	C	6' 0"	192	Feb	18	1990	24	Toronto, ON, Canada
+sabres	R	6' 1"	198	Jun	8	1986	28	Buffalo, NY, USA
+sabres	C	6' 2"	224	Apr	18	1983	31	London, ON, Canada
+sabres	C	5' 11"	189	Jan	30	1985	29	Greenfield Park, QC, Canada
+sabres	L	6' 1"	200	Nov	1	1983	30	North York, ON, Canada
+sabres	C	6' 1"	185	Nov	6	1995	18	North Vancouver, BC, Canada
+sabres	R	6' 2"	214	Oct	30	1985	28	Milwaukee, WI, USA
+sabres	R	6' 2"	231	Oct	30	1987	26	Toronto, ON, Canada
+sabres	X	5' 11"	191	Jan	6	1984	30	St. Albert, ON, Canada
+sabres	X	6' 1"	201	Aug	14	1984	30	Kelowna, BC, Canada
+sabres	X	6' 2"	223	Oct	13	1985	29	Považská Bystrica, SVK
+sabres	X	6' 8"	219	Feb	1	1990	24	Houston, TX, USA
+sabres	X	6' 4"	219	Oct	27	1994	19	Turku, Finland
+sabres	X	6' 3"	215	Oct	30	1984	29	Melfort, SK, Canada
+sabres	X	6' 2"	212	Dec	16	1987	26	Pittsburgh, PA, USA
+sabres	X	6' 5"	220	Apr	16	1995	19	Moscow, Russia
+sabres	X	5' 10"	166	Jun	25	1988	26	Stockholm, Sweden
+sabres	X	6' 2"	171	Mar	7	1990	24	London, ON, Canada
+sabres	X	6' 1"	209	Mar	23	1988	26	Ústí nad Labem, Czech Republic
+hurricanes	L	5' 10"	185	Oct	4	1989	25	Airdrie, AB, Canada
+hurricanes	C	6' 1"	210	May	29	1992	22	Bloomfield Hills, MI, USA
+hurricanes	R	5' 11"	175	Jun	22	1983	31	Spokane, WA, USA
+hurricanes	L	5' 5"	178	Jul	24	1987	27	Oxford, MI, USA
+hurricanes	C	6' 1"	192	Dec	2	1994	19	Boden, Sweden
+hurricanes	C	6' 2"	207	May	20	1989	25	Miramichi, NB, Canada
+hurricanes	C	6' 1"	205	Mar	2	1983	31	Kingston, ON, Canada
+hurricanes	C	6' 1"	200	May	9	1989	25	Consort, AB, Canada
+hurricanes	C	6' 2"	200	Mar	1	1993	21	Leksand, Sweden
+hurricanes	R	6' 2"	209	Mar	3	1984	30	Krasnojarsk, Russia
+hurricanes	L	5' 11"	200	May	16	1992	22	Toronto, ON, Canada
+hurricanes	C	6' 4"	205	Oct	29	1984	29	Thunder Bay, ON, Canada
+hurricanes	C	6' 4"	220	Sep	10	1988	26	Thunder Bay, ON, Canada
+hurricanes	C	6' 5"	203	Sep	26	1991	23	Viking, AB, Canada
+hurricanes	L	5' 10"	195	Apr	7	1989	25	Brampton, ON, Canada
+hurricanes	L	6' 0"	209	Mar	16	1988	26	Slany, Czech Republic
+hurricanes	X	6' 4"	225	Jun	25	1988	26	Windsor, ON, Canada
+hurricanes	X	6' 0"	215	Mar	20	1992	22	South St.Paul, MN, USA
+hurricanes	X	6' 0"	217	Jan	29	1983	31	Clawson, MI, USA
+hurricanes	X	6' 3"	210	Mar	24	1981	33	Bolton, CT, USA
+hurricanes	X	6' 4"	220	Nov	3	1982	31	Oshawa, ON, Canada
+hurricanes	X	5' 10"	185	Nov	25	1980	33	Indianapolis, IN, USA
+hurricanes	X	5' 11"	185	Mar	31	1993	21	Aurora, ON, Canada
+hurricanes	X	6' 0"	201	Jun	8	1986	28	Bojnice, SVK
+hurricanes	X	5' 11"	203	May	7	1986	28	Ust-Kamenogorsk, KAZ
+hurricanes	X	6' 1"	185	Feb	29	1984	30	Saskatoon, SK, Canada
+bluejackets	C	6' 4"	198	May	24	1988	26	Yaroslavl, Russia
+bluejackets	R	5' 8"	174	Jun	5	1989	25	Riverside, CT, USA
+bluejackets	R	6' 3"	214	May	13	1986	28	Charlotte, NC, USA
+bluejackets	L	5' 11"	187	Dec	24	1989	24	Brandon, MB, Canada
+bluejackets	C	6' 2"	197	Apr	9	1992	22	Ile Bizard, QC, Canada
+bluejackets	R	6' 2"	210	Jul	15	1985	29	Prince Albert, SK, Canada
+bluejackets	C	5' 11"	183	Nov	30	1994	19	Eisenstadt, Austria
+bluejackets	C	6' 2"	216	Apr	29	1986	28	Anchorage, AK, USA
+bluejackets	L	6' 0"	210	Oct	31	1987	26	Buffalo, NY, USA
+bluejackets	L	6' 2"	210	Apr	18	1982	32	Regina, SK, Canada
+bluejackets	R	6' 2"	229	May	29	1985	29	Welland, ON, Canada
+bluejackets	C	6' 2"	208	Jun	15	1993	21	Dorchester, ON, Canada
+bluejackets	C	6' 3"	223	Jul	31	1992	22	Vancouver, BC, Canada
+bluejackets	C	5' 10"	199	Feb	4	1985	29	Elk Point, AB, Canada
+bluejackets	R	6' 1"	216	May	19	1987	27	Madison, WI, USA
+bluejackets	R	6' 0"	185	Jul	25	1989	25	Grosse Pointe Woods, MI, USA
+bluejackets	C	6' 1"	190	Sep	22	1994	20	Stockholm, Sweden
+bluejackets	X	6' 2"	200	Feb	24	1991	23	Port Chester, NY, USA
+bluejackets	X	6' 1"	195	Nov	30	1989	24	Mississauga, ON, Canada
+bluejackets	X	6' 1"	238	Jan	13	1987	27	Indianapolis, IN, USA
+bluejackets	X	6' 1"	208	Sep	27	1993	21	Regina, SK, Canada
+bluejackets	X	6' 3"	222	Mar	13	1990	24	Kingsville, ON, Canada
+bluejackets	X	6' 2"	219	Oct	22	1990	24	St. Hyacinthe, QC, Canada
+bluejackets	X	6' 2"	212	Jul	19	1983	31	Izhevsk, Russia
+bluejackets	X	5' 11"	203	Feb	21	1984	30	Canadaton, MI, USA
+bluejackets	X	6' 2"	182	Sep	20	1988	26	Novokuznetsk, Russia
+bluejackets	X	6' 2"	176	Nov	27	1992	21	Härnösand, Sweden
+bluejackets	X	6' 3"	205	May	23	1983	31	London, ON, Canada
+redwings	L	6' 2"	218	Feb	25	1987	27	Muskegon, MI, USA
+redwings	C	6' 2"	211	Feb	5	1989	25	Munkedal, Sweden
+redwings	R	6' 1"	205	Dec	18	1978	35	Carbonear, NL, Canada
+redwings	C	5' 11"	194	Jul	20	1978	36	Sverdlovsk, Russia
+redwings	R	6' 4"	232	Dec	23	1979	34	Vetlanda, Sweden
+redwings	C	5' 11"	194	Apr	28	1989	25	Grand Rapids, MI, USA
+redwings	C	6' 0"	196	Jan	21	1987	27	St. Andrews, MB, Canada
+redwings	R	6' 1"	203	Dec	28	1992	21	Kosice, SVK
+redwings	L	6' 2"	180	Feb	17	1984	30	Dover, NJ, USA
+redwings	C	6' 3"	200	Feb	22	1991	23	Prague, Czech Republic
+redwings	R	5' 11"	183	Sep	1	1989	25	Halmstad, Sweden
+redwings	C	6' 3"	222	Dec	7	1991	22	St. Catharines, ON, Canada
+redwings	L	5' 10"	185	Dec	1	1990	23	Ilava, SVK
+redwings	C	5' 11"	190	Apr	3	1983	31	Toronto, ON, Canada
+redwings	L	6' 0"	195	Oct	9	1980	34	Njurunda, Sweden
+redwings	X	6' 3"	191	Mar	7	1990	24	Detroit, MI, USA
+redwings	X	6' 4"	220	Mar	2	1984	30	Karlskrona, Sweden
+redwings	X	6' 3"	199	Feb	10	1987	27	Sumperk, Czech Republic
+redwings	X	6' 0"	194	Jan	12	1981	33	Stockholm, Sweden
+redwings	X	6' 3"	221	Jul	16	1990	24	Albany, NY, USA
+redwings	X	6' 2"	216	Aug	12	1985	29	Kitchener, ON, Canada
+redwings	X	6' 2"	211	Feb	8	1989	25	Mimico, ON, Canada
+redwings	X	6' 2"	212	Oct	24	1984	30	Danderyd, Sweden
+redwings	X	6' 1"	218	Mar	26	1984	30	Syracuse, NY, USA
+panthers	C	6' 3"	213	Sep	2	1995	19	Tampere, Finland
+panthers	L	5' 10"	201	Feb	8	1984	30	Helsinki, Finland
+panthers	C	6' 6"	218	Jul	17	1992	22	Minneapolis, MN, USA
+panthers	C	6' 0"	184	Jun	5	1986	28	Mimico, ON, Canada
+panthers	R	6' 0"	195	Apr	17	1982	32	Mississauga, ON, Canada
+panthers	L	6' 1"	192	May	16	1984	30	Koprivnice, Czech Republic
+panthers	R	6' 6"	221	Nov	21	1989	24	Boston, MA, USA
+panthers	L	6' 1"	188	Jun	4	1993	21	Saint-Jerome, QC, Canada
+panthers	L	5' 11"	198	Apr	1	1983	31	Kalajoki, Finland
+panthers	R	6' 3"	210	Feb	5	1982	32	Ilava, SVK
+panthers	C	5' 11"	181	Jun	11	1981	33	Sudbury, ON, Canada
+panthers	C	6' 0"	183	Apr	10	1991	23	Toronto, ON, Canada
+panthers	L	6' 2"	217	Jul	23	1977	37	Oshawa, ON, Canada
+panthers	L	6' 0"	200	Oct	7	1983	31	Fort McMurray, AB, Canada
+panthers	X	5' 10"	192	May	23	1979	35	Strathroy, ON, Canada
+panthers	X	6' 4"	216	Feb	7	1996	18	Windsor, ON, Canada
+panthers	X	6' 5"	216	Jan	7	1992	22	Ottawa, ON, Canada
+panthers	X	6' 1"	204	Oct	29	1990	23	Lipetsk, Russia
+panthers	X	6' 3"	210	Apr	23	1977	37	Port McNeill, BC, Canada
+panthers	X	6' 2"	223	Jan	3	1991	23	Salt Lake City, UT, USA
+panthers	X	6' 3"	194	Apr	24	1990	24	Dauphin, MB, Canada
+panthers	X	6' 3"	217	Apr	4	1979	35	Montreal, QC, Canada
+panthers	X	6' 2"	203	Feb	13	1985	29	Chicago, IL, USA
+Canadiens	L	5' 11"	195	May	31	1992	22	Shawinigan, QC, Canada
+Canadiens	R	6' 2"	214	Dec	10	1981	32	Lac La Biche, AB, Canada
+Canadiens	C	5' 7"	176	Sep	14	1986	28	Laurier-Station, QC, Canada
+Canadiens	C	6' 2"	209	May	8	1989	25	Rodovre, Denmark
+Canadiens	C	6' 1"	198	Feb	12	1994	20	Milwaukee, WI, USA
+Canadiens	R	5' 9"	182	May	6	1992	22	Edmonton, AB, Canada
+Canadiens	C	6' 2"	207	May	18	1980	34	Mississauga, ON, Canada
+Canadiens	L	6' 2"	212	Apr	6	1982	32	Stewart Valley, SK, Canada
+Canadiens	L	6' 2"	214	Nov	20	1988	25	New Canadaaan, CT, USA
+Canadiens	R	6' 0"	197	Mar	24	1983	31	Hull, QC, Canada
+Canadiens	C	5' 11"	198	Oct	31	1982	31	Kladno, Czech Republic
+Canadiens	L	6' 0"	195	Mar	16	1984	30	London, ON, Canada
+Canadiens	L	6' 2"	195	Jun	10	1992	22	Kladno, Czech Republic
+Canadiens	R	6' 2"	205	Aug	5	1988	26	Winnipeg, MB, Canada
+Canadiens	X	6' 2"	194	Dec	5	1992	21	Strathroy, ON, Canada
+Canadiens	X	6' 2"	217	Apr	25	1986	28	Togliatti, Russia
+Canadiens	X	6' 2"	204	Jan	10	1983	31	Bloomington, MN, USA
+Canadiens	X	6' 0"	197	Dec	20	1978	35	Voskresensk, Russia
+Canadiens	X	6' 0"	214	May	13	1989	25	Toronto, ON, Canada
+Canadiens	X	6' 6"	225	Feb	20	1992	22	Burnsville, MN, USA
+Canadiens	X	5' 10"	186	May	2	1978	36	Brampton, ON, Canada
+Canadiens	X	6' 3"	216	Aug	16	1987	27	Anahim Lake, BC, Canada
+Canadiens	X	5' 11"	195	Sep	16	1989	25	Watson, SK, Canada
+devils	R	5' 11"	185	Mar	9	1986	28	Zürich, CHE
+devils	L	5' 9"	190	Jun	8	1982	32	Richmond Hill, ON, Canada
+devils	L	6' 3"	225	Sep	30	1982	32	St. John's, NL, Canada
+devils	C	6' 1"	195	Apr	13	1976	38	Trebic, Czech Republic
+devils	C	5' 7"	185	Oct	9	1983	31	Rochester, NY, USA
+devils	L	6' 2"	210	Apr	19	1981	33	Mlada Boleslav, Czech Republic
+devils	C	6' 0"	195	Feb	6	1990	24	Brantford, ON, Canada
+devils	R	6' 3"	230	Feb	15	1972	42	Kladno, Czech Republic
+devils	C	6' 1"	190	Mar	2	1991	23	Stockholm, Sweden
+devils	L	6' 0"	205	Feb	16	1983	31	Vantaa, Finland
+devils	R	6' 1"	200	Mar	31	1980	34	Bonavista, NL, Canada
+devils	R	5' 9"	195	Feb	2	1983	31	Churchill, MB, Canada
+devils	C	6' 3"	205	May	13	1985	29	Winnipeg, MB, Canada
+devils	L	6' 5"	225	Jun	16	1978	36	Elektrenai, LTU
+devils	X	6' 4"	215	May	8	1991	23	Vanier, ON, Canada
+devils	X	5' 11"	190	Oct	30	1982	31	Trenton, MI, USA
+devils	X	6' 3"	205	Nov	12	1992	21	Skellefteå, Sweden
+devils	X	6' 3"	205	Feb	3	1992	22	Oklahoma City, OK, USA
+devils	X	6' 3"	215	Feb	11	1976	38	Brandon, MB, Canada
+devils	X	6' 2"	205	Aug	7	1994	20	Brandon, MB, Canada
+devils	X	5' 11"	190	Feb	3	1977	37	Most, Czech Republic
+devils	X	6' 2"	200	Jul	23	1977	37	Des Moines, IA, USA
+devils	X	6' 2"	205	Mar	18	1986	28	Marblehead, MA, USA
+islanders	L	6' 1"	194	Oct	2	1989	25	Bowmanville, ON, Canada
+islanders	L	6' 0"	225	Aug	17	1976	38	Halifax, NS, Canada
+islanders	C	5' 11"	201	Feb	27	1991	23	Toronto, ON, Canada
+islanders	R	5' 11"	215	Nov	18	1987	26	Welland, ON, Canada
+islanders	C	5' 8"	182	Dec	14	1989	24	Burlington, ON, Canada
+islanders	R	6' 1"	202	Oct	5	1987	27	Villach, Austria
+islanders	C	5' 11"	183	Jan	31	1984	30	Potsdam, DEU
+islanders	L	6' 1"	226	Jul	14	1986	28	Magnitogorsk, Russia
+islanders	C	6' 3"	227	Jul	3	1990	24	Edina, MN, USA
+islanders	L	6' 3"	215	May	8	1989	25	Windsor, ON, Canada
+islanders	C	6' 3"	206	Oct	15	1991	23	Warroad, MN, USA
+islanders	C	6' 1"	190	Apr	24	1984	30	Herning, Denmark
+islanders	R	6' 0"	217	Apr	16	1988	26	St. Paul, MN, USA
+islanders	C	6' 1"	196	Jul	11	1993	21	Mississauga, ON, Canada
+islanders	C	6' 1"	209	Sep	20	1990	24	Mississauga, ON, Canada
+islanders	X	6' 2"	225	Jan	19	1984	30	Edmonton, AB, Canada
+islanders	X	6' 5"	233	Nov	3	1980	33	Winchester, ON, Canada
+islanders	X	6' 1"	205	May	9	1990	24	Edmond, OK, USA
+islanders	X	6' 2"	217	Aug	16	1990	24	St. Malo, MB, Canada
+islanders	X	6' 0"	190	Feb	8	1989	25	Calgary, AB, Canada
+islanders	X	6' 0"	194	Mar	20	1991	23	Eden Prairie, MN, USA
+islanders	X	6' 1"	209	Jan	4	1988	26	Waltham, MA, USA
+islanders	X	5' 10"	192	Aug	11	1976	38	TopolCanaday, SVK
+islanders	X	6' 1"	193	May	9	1991	23	Carp, ON, Canada
+islanders	X	5' 11"	186	May	13	1985	29	Bratislava, SVK
+islanders	X	6' 3"	193	Jun	10	1986	28	Saskatoon, SK, Canada
+rangers	C	6' 1"	202	Sep	22	1987	27	Hull, QC, Canada
+rangers	L	5' 11"	185	Aug	26	1995	19	Pointe-Claire, QC, Canada
+rangers	L	6' 1"	210	Nov	29	1983	30	Regina, SK, Canada
+rangers	L	5' 11"	186	Aug	23	1988	26	Sodertalje, Sweden
+rangers	R	6' 5"	225	May	8	1992	22	Boston, MA, USA
+rangers	L	6' 3"	226	Apr	30	1991	23	Boxford, MA, USA
+rangers	L	6' 4"	224	Dec	1	1979	34	Pittsburgh, PA, USA
+rangers	C	6' 0"	192	Aug	3	1980	34	Thornhill, ON, Canada
+rangers	C	5' 11"	210	Mar	6	1986	28	West Seneca, NY, USA
+rangers	L	6' 4"	220	Jun	16	1984	30	Brampton, ON, Canada
+rangers	R	5' 8"	180	Jun	18	1975	39	Laval, QC, Canada
+rangers	R	5' 11"	196	Feb	4	1983	31	West Seneca, NY, USA
+rangers	C	6' 0"	196	Jun	18	1990	24	Hastings, MN, USA
+rangers	L	5' 7"	179	Sep	1	1987	27	Oslo, NOR
+rangers	X	5' 11"	190	Jul	12	1976	38	Ottawa, ON, Canada
+rangers	X	6' 1"	203	Apr	29	1984	30	Welland, ON, Canada
+rangers	X	5' 11"	190	May	21	1985	29	Warren, MI, USA
+rangers	X	6' 1"	199	Dec	13	1984	29	Kitchener, ON, Canada
+rangers	X	6' 1"	210	Nov	28	1985	28	Etobicoke, ON, Canada
+rangers	X	6' 1"	213	Jun	13	1989	25	St. Paul, MN, USA
+rangers	X	6' 3"	202	Nov	19	1990	23	Winnetka, IL, USA
+rangers	X	6' 4"	207	Jan	13	1987	27	Thunder Bay, ON, Canada
+rangers	X	6' 1"	188	Mar	2	1982	32	Are, Sweden
+rangers	X	6' 3"	195	Jul	5	1987	27	Caledonia, ON, Canada
+senators	R	6' 4"	205	Oct	1	1990	24	Montreal, QC, Canada
+senators	R	6' 0"	190	Aug	6	1986	28	Trenton, MI, USA
+senators	L	6' 3"	210	Mar	9	1986	28	St. John's, NL, Canada
+senators	L	6' 0"	185	Nov	24	1989	24	Kitchener, ON, Canada
+senators	C	6' 0"	196	Feb	2	1995	19	Salmon Arm, BC, Canada
+senators	C	6' 2"	205	Aug	17	1980	34	Detroit, MI, USA
+senators	L	6' 0"	195	Apr	6	1985	29	Lloydminster, AB, Canada
+senators	L	6' 2"	216	Dec	7	1984	29	Jindrichuv Hradec, Czech Republic
+senators	R	6' 1"	215	Jun	18	1979	35	Flesherton, ON, Canada
+senators	R	6' 2"	207	Mar	17	1987	27	Cherry Hill, NJ, USA
+senators	C	6' 2"	210	Apr	5	1988	26	Maple Creek, SK, Canada
+senators	R	6' 2"	205	May	13	1992	22	Winnipeg, MB, Canada
+senators	C	6' 1"	191	Aug	14	1989	25	New Westminster, BC, Canada
+senators	C	6' 2"	211	Apr	18	1993	21	Stockholm, Sweden
+senators	X	6' 2"	205	Jul	12	1989	25	Ottawa, ON, Canada
+senators	X	6' 3"	209	Dec	21	1993	20	Ottawa, ON, Canada
+senators	X	6' 5"	228	Jan	25	1991	23	Saskatoon, SK, Canada
+senators	X	6' 4"	225	Apr	14	1988	26	Saskatoon, SK, Canada
+senators	X	6' 0"	180	May	31	1990	24	Landsbro, Sweden
+senators	X	6' 3"	230	Jun	21	1985	29	Ottawa, ON, Canada
+senators	X	6' 3"	220	Mar	9	1978	36	Calgary, AB, Canada
+senators	X	6' 5"	206	Sep	12	1990	24	Burnaby, BC, Canada
+senators	X	6' 2"	184	May	21	1981	33	Park Ridge, IL, USA
+senators	X	6' 5"	225	Jul	24	1991	23	Gothenburg, Sweden
+flyers	R	5' 10"	190	Jun	3	1990	24	Ottawa, ON, Canada
+flyers	L	6' 0"	198	Mar	6	1985	29	Le Blanc-Mesnil, FRA
+flyers	C	6' 3"	197	Dec	7	1992	21	Phoenix, AZ, USA
+flyers	C	5' 11"	172	Jan	12	1988	26	Hearst, ON, Canada
+flyers	C	6' 2"	216	Sep	27	1986	28	Central Butte, SK, Canada
+flyers	C	6' 4"	215	Apr	21	1980	34	Ile Bizard, QC, Canada
+flyers	L	6' 0"	195	Dec	1	1988	25	Villach, Austria
+flyers	R	5' 10"	185	Jun	14	1986	28	Ilderton, ON, Canada
+flyers	C	5' 11"	169	Jun	15	1990	24	Mississauga, ON, Canada
+flyers	C	6' 1"	190	Aug	22	1991	23	Saskatoon, SK, Canada
+flyers	R	6' 2"	183	Aug	26	1988	26	Scarborough, ON, Canada
+flyers	C	6' 2"	214	May	3	1982	32	Pittsburgh, PA, USA
+flyers	C	6' 2"	190	Mar	15	1987	27	Moorhead, MN, USA
+flyers	R	6' 2"	214	Aug	15	1989	25	Kladno, Czech Republic
+flyers	X	6' 5"	220	Feb	27	1985	29	Shaunavon, SK, Canada
+flyers	X	6' 0"	195	Jun	24	1990	24	Stouffville, ON, Canada
+flyers	X	6' 4"	230	Jan	22	1985	29	Stockholm, Sweden
+flyers	X	6' 1"	190	Sep	7	1986	28	Judique, NS, Canada
+flyers	X	6' 6"	220	Oct	10	1974	40	Dryden, ON, Canada
+flyers	X	6' 2"	229	Nov	2	1989	24	Saskatoon, SK, Canada
+flyers	X	6' 1"	203	Aug	25	1982	32	Strasbourg, SK, Canada
+flyers	X	5' 11"	191	Dec	11	1977	36	Bern, CHE
+flyers	X	6' 2"	196	Sep	28	1982	32	Hamilton, ON, Canada
+flyers	X	6' 4"	217	May	29	1988	26	Oakville, ON, Canada
+penguins	R	6' 0"	200	Apr	26	1977	37	Seria, BRN
+penguins	R	6' 2"	195	Nov	27	1991	22	Gardena, CA, USA
+penguins	L	6' 1"	202	Feb	18	1986	28	Meadow Lake, SK, Canada
+penguins	C	5' 11"	200	Aug	7	1987	27	Cole Harbour, NS, Canada
+penguins	R	5' 11"	191	Apr	3	1987	27	Newmarket, ON, Canada
+penguins	R	6' 1"	205	Apr	7	1979	35	Laval, QC, Canada
+penguins	C	6' 1"	197	Aug	24	1983	31	Calw, DEU
+penguins	R	5' 11"	189	Jan	1	1987	27	Sollentuna, Sweden
+penguins	L	6' 0"	195	Sep	26	1979	35	Regina, SK, Canada
+penguins	C	6' 3"	195	Jul	31	1986	28	Magnitogorsk, Russia
+penguins	C	6' 0"	202	May	24	1988	26	Truro, NS, Canada
+penguins	C	6' 1"	201	Sep	19	1988	26	Palmerston, ON, Canada
+penguins	C	6' 3"	190	Feb	14	1989	25	Huntington, NY, USA
+penguins	X	6' 4"	215	Mar	18	1989	25	Thunder Bay, ON, Canada
+penguins	X	6' 4"	214	Jul	27	1991	23	Laval, QC, Canada
+penguins	X	6' 2"	205	Jul	6	1982	32	Moers, DEU
+penguins	X	6' 0"	201	Apr	24	1987	27	Montreal, QC, Canada
+penguins	X	6' 2"	206	Aug	22	1994	20	Jyväskylä, Finland
+penguins	X	6' 1"	200	Mar	5	1981	33	Minneapolis, MN, USA
+penguins	X	6' 1"	212	Dec	30	1978	35	Syosset, NY, USA
+penguins	X	6' 2"	180	Nov	28	1984	29	Sorel, QC, Canada
+penguins	X	6' 1"	220	Jan	29	1986	28	Fussen, DEU
+lightning	C	6' 7"	244	Dec	18	1984	29	Hingham, MA, USA
+lightning	R	5' 10"	170	Jul	2	1990	24	Burnsville, MN, USA
+lightning	R	5' 11"	190	Mar	21	1985	29	Rochester, NY, USA
+lightning	R	6' 2"	181	May	2	1992	22	Campbell River, BC, Canada
+lightning	L	5' 11"	186	Mar	28	1995	19	Ste-Agathe, QC, Canada
+lightning	C	6' 0"	195	Mar	20	1984	30	Vantaa, Finland
+lightning	C	5' 9"	182	Jul	29	1990	24	Spokane, WA, USA
+lightning	C	6' 2"	205	Sep	14	1989	25	Halifax, NS, Canada
+lightning	R	5' 11"	171	Jun	17	1993	21	Moscow, Russia
+lightning	L	6' 0"	205	Jan	16	1979	35	Carlyle, SK, Canada
+lightning	C	5' 11"	171	Nov	22	1992	21	Zhukovskiy, Russia
+lightning	L	6' 0"	180	Mar	28	1991	23	Frydek-Mistek, Czech Republic
+lightning	C	6' 1"	198	Aug	13	1993	21	Gaspe, QC, Canada
+lightning	C	6' 0"	190	Feb	7	1990	24	Markham, ON, Canada
+lightning	X	6' 1"	185	Mar	23	1990	24	Montreal, QC, Canada
+lightning	X	6' 4"	216	Apr	17	1979	35	Vernon, BC, Canada
+lightning	X	6' 0"	205	Sep	25	1984	30	Anchorage, AK, USA
+lightning	X	6' 2"	218	Nov	13	1984	29	White Rock, BC, Canada
+lightning	X	6' 0"	204	Jun	5	1990	24	Prague, Czech Republic
+lightning	X	6' 6"	233	Dec	18	1990	23	Ornskoldsvik, Sweden
+lightning	X	6' 4"	233	Sep	9	1976	38	Pitea, Sweden
+lightning	X	5' 11"	190	Aug	1	1986	28	Tibro, Sweden
+lightning	X	6' 8"	225	Nov	29	1990	23	Plzen, Czech Republic
+lightning	X	6' 7"	214	Nov	21	1986	27	Denver, CO, USA
+lightning	X	6' 0"	202	Jul	25	1975	39	Kamenogorsk, KAZ
+mapleleafs	R	6' 3"	215	Apr	1	1991	23	Winnipeg, MB, Canada
+mapleleafs	L	6' 0"	212	Nov	24	1984	29	Detroit, MI, USA
+mapleleafs	C	6' 1"	195	Mar	19	1986	28	Regina, SK, Canada
+mapleleafs	R	6' 1"	200	Mar	31	1984	30	Toronto, ON, Canada
+mapleleafs	R	6' 0"	205	Jan	3	1988	26	Edmonton, AB, Canada
+mapleleafs	C	6' 2"	194	Jan	14	1991	23	Toronto, ON, Canada
+mapleleafs	C	6' 0"	188	Oct	6	1990	24	London, ON, Canada
+mapleleafs	R	6' 0"	202	Oct	2	1987	27	Madison, WI, USA
+mapleleafs	C	5' 11"	198	Jan	23	1987	27	Narva, EST
+mapleleafs	R	5' 8"	167	Mar	8	1990	24	Los Angeles, CA, USA
+mapleleafs	L	6' 1"	206	Sep	23	1983	31	Fort Saskatchewan, AB, Canada
+mapleleafs	L	6' 5"	230	Oct	29	1987	26	Winnipeg, MB, Canada
+mapleleafs	R	6' 1"	208	Feb	7	1991	23	Martin, SVK
+mapleleafs	C	6' 0"	189	Dec	14	1985	28	Vancouver, BC, Canada
+mapleleafs	C	6' 2"	207	Mar	6	1985	29	Toronto, ON, Canada
+mapleleafs	L	6' 3"	200	May	4	1989	25	Middletown, NJ, USA
+mapleleafs	X	6' 5"	213	Aug	8	1987	27	Sicamous, BC, Canada
+mapleleafs	X	6' 2"	184	Jul	4	1990	24	Minnetonka, MN, USA
+mapleleafs	X	6' 1"	187	Nov	16	1992	21	Sodertalje, Sweden
+mapleleafs	X	6' 1"	187	May	18	1993	21	Oakville, ON, Canada
+mapleleafs	X	6' 3"	214	Apr	10	1985	29	Edmonton, AB, Canada
+mapleleafs	X	6' 0"	236	Apr	28	1986	28	Ostrava, Czech Republic
+mapleleafs	X	6' 1"	205	Mar	9	1994	20	Vancouver, BC, Canada
+mapleleafs	X	5' 11"	190	Mar	3	1977	37	Sherbrooke, QC, Canada
+mapleleafs	X	6' 0"	185	Aug	7	1988	26	Laval, QC, Canada
+mapleleafs	X	6' 2"	208	Mar	15	1988	26	Morweena, MB, Canada
+capitals	C	6' 1"	208	Nov	23	1987	26	Gävle, Sweden
+capitals	R	6' 3"	215	Oct	16	1985	29	Calgary, AB, Canada
+capitals	R	6' 3"	213	Aug	17	1985	29	Vancouver, BC, Canada
+capitals	C	6' 2"	215	Feb	3	1991	23	Flower Mound, TX, USA
+capitals	L	6' 1"	178	Feb	9	1995	19	Klagenfurt, Austria
+capitals	L	6' 3"	213	May	2	1979	35	Edmonton, AB, Canada
+capitals	R	6' 4"	212	Sep	7	1985	29	Winkler, MB, Canada
+capitals	C	6' 1"	205	Oct	6	1990	24	Landskrona, Sweden
+capitals	C	6' 0"	172	May	19	1992	22	Chelyabinsk, Russia
+capitals	C	6' 2"	210	Jun	23	1983	31	Wawota, SK, Canada
+capitals	C	6' 0"	209	May	25	1991	23	Kitchener, ON, Canada
+capitals	C	6' 1"	205	Jul	29	1994	20	Halifax, NS, Canada
+capitals	R	6' 3"	230	Sep	17	1985	29	Moscow, Russia
+capitals	R	6' 1"	226	Dec	2	1980	33	North York, ON, Canada
+capitals	X	6' 2"	217	Sep	24	1988	26	Burnaby, BC, Canada
+capitals	X	6' 3"	212	Jan	10	1990	24	Natick, MA, USA
+capitals	X	6' 4"	220	Jun	26	1980	34	Kingston, ON, Canada
+capitals	X	6' 1"	207	Oct	12	1985	29	Calgary, AB, Canada
+capitals	X	5' 10"	190	Jan	24	1986	28	Minnetonka, MN, USA
+capitals	X	6' 0"	209	Dec	6	1986	27	Virginia, MN, USA
+capitals	X	6' 2"	219	Sep	26	1980	34	San Francisco, CA, USA
+capitals	X	6' 0"	194	Jul	16	1991	23	St. Cloud, MN, USA
+capitals	X	6' 2"	203	Sep	16	1989	25	Lloydminster, SK, Canada
+capitals	X	6' 1"	210	Aug	30	1986	28	Blyth, ON, Canada
